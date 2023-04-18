@@ -3,6 +3,7 @@
   "displayName": "ROX Laravel extension pack",
   "description": "Extensions that we use for Laravel projects at ROX",
   "version": "0.0.1",
+  "publisher": "ROX",
   "engines": {
     "vscode": "^1.77.0"
   },
